@@ -1,0 +1,4 @@
+// null = default "{tarkov version} Beta version", "" = hide watermark, string = show exactly this text
+{
+  "version": null
+}
